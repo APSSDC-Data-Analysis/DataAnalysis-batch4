@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# DataAnalysis-batch4
+Here you can find the Data Analysis Jupyter notebooks and recorded sessions link.
 
-You can use the [editor on GitHub](https://github.com/APSSDC-Data-Analysis/DataAnalysis-batch4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Find Recorded Sessions link here -- <a href="https://drive.google.com/drive/folders/12MLL93kY7wwr8NAo6bjFy2xLK-MbBo9s?usp=sharing">RecordedSessionsLink</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Slack channel invitation [Link](https://join.slack.com/t/dataanalysispython/shared_invite/zt-h2yy5ldf-e7qb0yHWIy7309vHiNWhGQ)
 
-```markdown
-Syntax highlighted code block
+Find your details [Here](https://docs.google.com/spreadsheets/d/1CcNRV-IMqncJ4BysKR42D7aueoDltY5c-OJJMev7pi0/edit?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+For upcoming updates in APSSDC join in [Telegram](t.me/apssdcupdates)
 
-- Bulleted
-- List
+# Important Links for reference
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/APSSDC-Data-Analysis/DataAnalysis-batch4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Anaconda Software Downloading & Installing Step by Step](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)
+2. [Jupyter Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
+3. [Jupyter Math Markdown Syantax](https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/)
+### Numpy
+* [Numpy_Official_Website](http://numpy.org/)
