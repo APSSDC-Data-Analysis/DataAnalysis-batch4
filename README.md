@@ -11,7 +11,7 @@ Find your details [Here](https://docs.google.com/spreadsheets/d/1CcNRV-IMqncJ4By
 
 For upcoming updates in APSSDC join in [Telegram](t.me/apssdcupdates)
 
-# Important Links for future reference
+# Important Links for reference
 
 1. [Anaconda Software Downloading & Installing Step by Step](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)
 2. [Jupyter Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
