@@ -18,3 +18,9 @@ For upcoming updates in APSSDC join in [Telegram](t.me/apssdcupdates)
 3. [Jupyter Math Markdown Syantax](https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/)
 ### Numpy
 * [Numpy_Official_Website](http://numpy.org/)
+
+### Pandas 
+
+1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
